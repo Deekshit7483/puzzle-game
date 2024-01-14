@@ -1,0 +1,8 @@
+com.Puzzle.game.app-pngs-0 /home/deekshith/Downloads/Puzzle/app/build/generated/res/pngs/debug
+com.Puzzle.game.app-resValues-1 /home/deekshith/Downloads/Puzzle/app/build/generated/res/resValues/debug
+com.Puzzle.game.app-rs-2 /home/deekshith/Downloads/Puzzle/app/build/generated/res/rs/debug
+com.Puzzle.game.app-mergeDebugResources-3 /home/deekshith/Downloads/Puzzle/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.Puzzle.game.app-mergeDebugResources-4 /home/deekshith/Downloads/Puzzle/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.Puzzle.game.app-merged_res-5 /home/deekshith/Downloads/Puzzle/app/build/intermediates/merged_res/debug
+com.Puzzle.game.app-debug-6 /home/deekshith/Downloads/Puzzle/app/src/debug/res
+com.Puzzle.game.app-main-7 /home/deekshith/Downloads/Puzzle/app/src/main/res

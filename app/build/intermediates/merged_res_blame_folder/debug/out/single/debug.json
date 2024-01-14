@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_eleven.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/eleven.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_seven.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/seven.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_one.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/one.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_twelve.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/twelve.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_ten.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/ten.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_two.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/two.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_three.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/three.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.Puzzle.game.app-main-7:/layout/main.xml"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_nine.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/nine.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_five.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/five.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_six.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/six.png"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/layout_items.xml.flat",
+        "source": "com.Puzzle.game.app-main-7:/layout/items.xml"
+    },
+    {
+        "merged": "com.Puzzle.game.app-merged_res-5:/drawable-xhdpi_eight.png.flat",
+        "source": "com.Puzzle.game.app-main-7:/drawable-xhdpi/eight.png"
+    }
+]

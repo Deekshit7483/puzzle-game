@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:4:2-27
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:3:2-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:5:2-77
+	android:name
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:5:19-74
+application
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:6:2-28:16
+	android:requestLegacyExternalStorage
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:8:9-52
+	android:label
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:10:3-35
+	android:icon
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:9:3-36
+	android:allowBackup
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:7:3-29
+	android:theme
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:12:3-34
+	android:usesCleartextTraffic
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:11:3-38
+activity#com.Puzzle.game.MainActivity
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:13:3-24:14
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:19:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:16:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:17:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:15:4-97
+	android:theme
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:18:4-38
+	android:name
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:14:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:20:4-23:20
+action#android.intent.action.MAIN
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:21:5-57
+	android:name
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:21:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:22:15-62
+uses-library#org.apache.http.legacy
+ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:25:3-27:31
+	android:required
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:27:4-28
+	android:name
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:26:4-41
+uses-sdk
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml

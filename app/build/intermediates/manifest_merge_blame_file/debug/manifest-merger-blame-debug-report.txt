@@ -1,0 +1,67 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.Puzzle.game"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:5:2-77
+11-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:5:19-74
+12
+13    <application
+13-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:6:2-28:16
+14        android:allowBackup="true"
+14-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:7:3-29
+15        android:debuggable="true"
+16        android:icon="@drawable/app_icon"
+16-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:9:3-36
+17        android:label="@string/app_name"
+17-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:10:3-35
+18        android:requestLegacyExternalStorage="true"
+18-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:8:9-52
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme"
+20-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:12:3-34
+21        android:usesCleartextTraffic="true" >
+21-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:11:3-38
+22        <activity
+22-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:13:3-24:14
+23            android:name="com.Puzzle.game.MainActivity"
+23-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:14:4-32
+24            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+24-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:15:4-97
+25            android:hardwareAccelerated="true"
+25-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:16:4-38
+26            android:screenOrientation="portrait"
+26-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:19:4-40
+27            android:supportsPictureInPicture="true"
+27-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:17:4-43
+28            android:theme="@style/NoActionBar" >
+28-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:18:4-38
+29            <intent-filter>
+29-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:20:4-23:20
+30                <action android:name="android.intent.action.MAIN" />
+30-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:21:5-57
+30-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:21:13-54
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:22:5-65
+32-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:22:15-62
+33            </intent-filter>
+34        </activity>
+35
+36        <uses-library
+36-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:25:3-27:31
+37            android:name="org.apache.http.legacy"
+37-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:26:4-41
+38            android:required="false" />
+38-->/home/deekshith/Downloads/Puzzle/app/src/main/AndroidManifest.xml:27:4-28
+39    </application>
+40
+41</manifest>
