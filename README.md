@@ -1,5 +1,4 @@
-
-#puzzle-game
+# Puzzle-game
 
 Welcome to the Android Studio Puzzle Game repository! This project is a fun and engaging puzzle game developed using Android Studio, designed to entertain users with challenging puzzles and captivating gameplay. Whether you're a puzzle enthusiast or just looking for a delightful way to pass the time, this game offers an enjoyable experience for players of all ages.
 
